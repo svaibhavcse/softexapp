@@ -1,4 +1,7 @@
 # softexapp
+
+https://svaibhavcse.github.io/softexapp/
+
 web application using : Reactjs, React Hooks, React Bootstrap, Maeterial UI, Git Hub releases for files.
 
 Hosted using : Git Hub Pages.
